@@ -1,0 +1,22 @@
+{
+  "name": "js-stack-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queue.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaisurya07/JS-Stack-Queue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaisurya07/JS-Stack-Queue/issues"
+  },
+  "homepage": "https://github.com/Jaisurya07/JS-Stack-Queue#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
